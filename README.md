@@ -2,8 +2,6 @@
 
 ## About Me
 - **Name:** Đinh Việt Hào
-- **Date of Birth:** February 19, 2004
-- **Place of Birth:** Phụng Hiệp Health Station
 - **Current Residence:** Can Tho, Vietnam
 - **Permanent Address:** No. 155, 1-5 Street, kv 6, Hiep Thanh Ward, Nga Bay City, Hau Giang Province
 
